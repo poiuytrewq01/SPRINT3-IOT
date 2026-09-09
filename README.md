@@ -34,7 +34,7 @@ Vídeo pitch gravado e publicado.
 
 ## Equipe
 
-Nome - RM
-Nome - RM
-Nome - RM
-Nome - RM
+Artur Pioli SIlva - RM565597
+Matheus Arazin de Oliveira - RM556649
+Kevin Martins Campos - RM563454
+Pedro Gabriel Claes - RM566058
