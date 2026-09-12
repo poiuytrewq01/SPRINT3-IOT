@@ -10,7 +10,7 @@ A entrega dessa sprint é a definição e documentação do componente de Inteli
 
 ## Vídeo pitch
 
-Link do vídeo no YouTube, publicado como não listado: (colocar o link aqui depois de gravar e subir)
+Link do vídeo no YouTube: https://youtu.be/seWl0Qy6lco?is=tI-nfJxzffAM7R8c
 
 ## Documentação da IA
 
